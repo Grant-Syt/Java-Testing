@@ -7,6 +7,8 @@ public class ThreadClassDemo {
 	 * attempt to guess a number. The later two threads run one
 	 * after the other. The program terminates after the second number
 	 * is guessed.
+	 * 
+	 * Source: Tutorialspoint
 	 */
 
 	public static void main(String [] args) {
